@@ -9,4 +9,4 @@ An HTML and Tailwind Css nft card component that displays information about an n
 - HTML
 - Tailwind CSS
 
-![screenshot](/public/images/screenshot.png)
+![screenshot](images/screenshot.png)
