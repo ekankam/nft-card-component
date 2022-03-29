@@ -540,16 +540,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 100%;
 }
 
-.w-\[33px\] {
-  width: 33px;
-}
-
 .w-\[350px\] {
   width: 350px;
 }
 
-.max-w-\[350px\] {
-  max-width: 350px;
+.w-\[33px\] {
+  width: 33px;
 }
 
 .cursor-pointer {
@@ -676,9 +672,5 @@ Ensure the default browser behavior of the `hidden` attribute.
 @media (min-width: 640px) {
   .sm\:w-\[327px\] {
     width: 327px;
-  }
-
-  .sm\:max-w-\[327px\] {
-    max-width: 327px;
   }
 }
